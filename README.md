@@ -33,15 +33,7 @@ Open index.html in a browser to run the application.
 Click the "Start Test" button.
 Watch the gauge update in real-time.
 View the average download speed displayed after the test.
-Project Structure
-bash
    
-**/internet-speed-test**
-│
-├── index.html   # Main HTML file
-├── styles.css   # Styles for the web page
-├── script.js    # JavaScript logic for the speed test
-
 Customization
 Sample File URL: Change the fileUrl variable in script.js to use a different sample file for testing.
 Test Duration: Adjust the testTime variable in script.js to modify the duration of the test.
